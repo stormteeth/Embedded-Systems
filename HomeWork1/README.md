@@ -9,8 +9,8 @@ Close方面
 ![image](https://github.com/stormteeth/Embedded-Systems/blob/HomeWork1/HomeWork1/open_close.png)  
 原圖:  
 ![image](https://github.com/stormteeth/Embedded-Systems/blob/HomeWork1/HomeWork1/xcom.jpg)  
-Open:
+Open:  
 ![image](https://github.com/stormteeth/Embedded-Systems/blob/HomeWork1/HomeWork1/closing_whit_avx.jpg)  
-Close:
+Close:  
 ![image](https://github.com/stormteeth/Embedded-Systems/blob/HomeWork1/HomeWork1/opening_with_avx.jpg)  
 圖片出至於:https://wikiwiki.jp/xcom2/
