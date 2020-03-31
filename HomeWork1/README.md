@@ -8,8 +8,9 @@ Close方面
 很明顯的在使用AVX的狀態下能有效提升效率  
 ![image](https://github.com/stormteeth/Embedded-Systems/blob/HomeWork1/HomeWork1/open_close.png)  
 原圖:  
-![image]()  
+![image](https://github.com/stormteeth/Embedded-Systems/blob/HomeWork1/HomeWork1/xcom.jpg)  
 Open:
-![image]()
+![image](https://github.com/stormteeth/Embedded-Systems/blob/HomeWork1/HomeWork1/closing_whit_avx.jpg)
 Close:
-![image]()
+![image](https://github.com/stormteeth/Embedded-Systems/blob/HomeWork1/HomeWork1/opening_with_avx.jpg)  
+圖片出至於:https://wikiwiki.jp/xcom2/
